@@ -3,7 +3,9 @@
 <meta charset="utf-8">
 <title>地址發布頁_365成人資源網-365efg.com</title>
 <link rel="shortcut icon" type="image/x-icon" href="//www.365efg.com/favicon.ico" />
-<style>
+</head>
+<body>
+  <style>
 body {padding:0;margin:0;text-align:center;}
 .container {width:60%;margin:10% auto 0;background-color:#f0f0f0;padding:2% 5%;border-radius:10px;}
 ul {padding-left:20px;}
@@ -12,8 +14,6 @@ a {color:#20a53a;}
 h1 {margin-top:30px;margin-bottom:40px;}
 h3 {color:red;margin-bottom:20px;}
 </style>
-</head>
-<body>
 <h1>365成人資源網-365efg.com 地址發布頁</h1>
 <a href="https://www.365efg.com" target="_blank"><h2>https://www.365efg.com</h2></a>&nbsp;<br>
 <a href="https://www.365efg.ml" target="_blank"><h2>https://www.365efg.ml</h2></a>&nbsp;<br>
